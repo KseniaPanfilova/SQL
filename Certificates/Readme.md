@@ -1,9 +1,5 @@
 # My SQL certificates
 
-**CodeCademy**
-
-![CodeCademy](http://joxi.ru/BA0y4blT1ylolr)
-
 **Sololearn**
 
 ![Sololearn](https://www.sololearn.com/Certificate/CT-CLGZE6LE/png)
