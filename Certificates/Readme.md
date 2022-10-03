@@ -2,7 +2,7 @@
 
 **CodeCademy**
 
-![CodeCademy](https://www.codecademy.com/profiles/code7085706698/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
+![CodeCademy](https://drive.google.com/file/d/1xbv6Ge86j2JDHvewb8kpq-bHJHlen__0/view?usp=sharing)
 
 **Sololearn**
 
