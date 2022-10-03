@@ -1,4 +1,4 @@
-# SQL certificates
+# My SQL certificates
 
 **Sololearn**
 
